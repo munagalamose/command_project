@@ -35,7 +35,8 @@ A fully functional command-line terminal built in Python that mimics real system
 
 ### Basic Usage
 ```bash
-python terminal.py
+python terminal_windows.py  # For Windows
+python terminal.py          # For macOS/Linux
 ```
 
 ### Command Examples
